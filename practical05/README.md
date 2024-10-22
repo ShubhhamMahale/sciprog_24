@@ -1,4 +1,4 @@
-# Practical04
+# Practical05
 
 This is the FIFth practical where we code and execute three programs. The first one is the code to understand scanf function. The other two are Fibonnaci series code and Inverse Hyperbolic Tanget function.
 
