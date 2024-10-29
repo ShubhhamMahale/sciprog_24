@@ -1,7 +1,8 @@
 # Practical06
 
 This is the 6th practical where we code and execute matrix multiplication of two different sizes using loops. We also create two files one main.c and other mm.c. 
-The mm.c file contents the matrix multiplication fucntion. 
+The mm.c file contents the matrix multiplication fucntion.
+The makefile helps to automate the compilation process in C. 
 
 ## Compile:
 
@@ -56,4 +57,4 @@ clean:
 
 ```
 * The makefile helps with the compilation process of the c program. Whenever any changes are done, we just need to type make and all the requied files will be executed which are specified in makefile.
-* "make clean" helps to clean all the .o files if needed.
+* "make clean" helps to clean all the .o files if needed.   
