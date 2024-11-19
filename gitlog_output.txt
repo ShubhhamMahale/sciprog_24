@@ -1,0 +1,127 @@
+commit 84baba74d1e1414c28480d0a36a1370ce7473225
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Nov 19 11:29:42 2024 +0000
+
+    Add practical code to git repo
+
+commit 68e25d9bb07267f83ad6206328e219e06380dd13
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Nov 12 11:40:36 2024 +0000
+
+    Add practical 8 codes
+
+commit e8b68c7104c4e761b22cd2e902df449a386c1f23
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Nov 5 12:13:02 2024 +0000
+
+    Add practical 7 code files
+
+commit d75b8381a235a0c35b23836da9b0c299956a6789
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Nov 5 12:02:07 2024 +0000
+
+    add practical 7 code files
+
+commit 406cb463b0071592b9ac364acb29c45f152f03a3
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 29 16:31:59 2024 +0000
+
+    update readme
+
+commit d955f949ad838aa61a361f11e76cb735a8c0456c
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 29 16:28:07 2024 +0000
+
+    Update the readme file
+
+commit 32fa9f707b1b3c14fcc9073c6af6fa45cd568e82
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 29 16:07:22 2024 +0000
+
+    Add practical 06 with main.c mm.c and makefile files
+
+commit 135eeb09052a090bf3db354a8926731d3b7f3d26
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 22 12:48:20 2024 +0100
+
+    Updated README.md with new content
+
+commit b1abd339934354ae59a1dc76bc6ad29538843069
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 22 12:38:00 2024 +0100
+
+    Removed scan and fibo files from practical05
+
+commit b3bdf1c5059ab09f62ca727205a470f91d600c4e
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 22 12:36:43 2024 +0100
+
+    Updated practical05/README.md with new content
+
+commit b74c3df988bf168a0ca6e9b4e5bdcc7843a838d7
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 22 12:35:41 2024 +0100
+
+    Updated README.md with new content
+
+commit 7695fabc8a34812591405245a6c657ae468b0eaf
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 22 12:31:11 2024 +0100
+
+    Removed file practical05/arctan
+
+commit 2edd68a277209d13b54a2dd0ad26bc131f3eed87
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 22 12:25:47 2024 +0100
+
+    Add Practical05 folder to git repo branch practical05
+
+commit 36dd3aa8dc3c4bc73e9d5136f936788ac7f82f69
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 15 21:10:10 2024 +0100
+
+    Add new branch Practical04.
+
+commit c9a9b3dea2ff7be65e1c59cfe85c7467895f009a
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 15 20:48:49 2024 +0100
+
+    Add trap2.c and README.md to practical04 branch
+
+commit 1dbce16bc8374b543d76e50b0b88ead521af6122
+Merge: 94dcd95 5dd0ec0
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 15 20:25:30 2024 +0100
+
+    Merge branch 'practical03'
+
+commit 5dd0ec0e9c192dd9afcbc8bce3c886eb9a55eb99
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 15 20:24:01 2024 +0100
+
+    Add use_printf.c, trap.c, and README.md to practical03 branch
+
+commit 94dcd95f0118a46c868673884d828fe1edd73e6c
+Merge: a7c4337 e56f10b
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 15 20:13:38 2024 +0100
+
+    Merge branch 'practical02'
+
+commit e56f10b7d4eaddf44267c2f9f60b45574bf36dd8
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 15 20:11:29 2024 +0100
+
+    Added Conversion.c, Sum.c, and README.md to practical02 branch
+
+commit a7c4337e6f9f66cd3872c08fb2dc65f653d804a2
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 15 20:06:03 2024 +0100
+
+    Added printing.c, scanning.c, and README.md to practical01 branch
+
+commit 13525527f887c0e5632923c45a071d1bbe2b3319
+Author: Shubham Mahale <101944530+ShubhhamMahale@users.noreply.github.com>
+Date:   Tue Oct 15 19:39:31 2024 +0100
+
+    Initial commit
